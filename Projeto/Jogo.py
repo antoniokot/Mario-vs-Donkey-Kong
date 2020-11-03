@@ -8,7 +8,7 @@ pygame.mixer.music.play(-1)
 
 # seta as imagens e o display
 win = pygame.display.set_mode((500, 550))
-pygame.display.set_caption("Jump Game")
+pygame.display.set_caption("Kong")
 mario = pygame.image.load(r'Imagens\mario.png')
 plataforma = pygame.image.load(r'Imagens\plataforma.png')
 escada = pygame.image.load(r'Imagens\escada.png')
